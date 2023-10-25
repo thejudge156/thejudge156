@@ -1,5 +1,5 @@
 ### Hi there! I'm The Judge.
-I currently work mostly on QCXR. I know Java, C#, a little Python, a little C, and I am currently learning Rust.
+I currently work mostly on QCXR. I know Java, C#, a little Python, and some C and C++.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejudge156)](https://github.com/anuraghazra/github-readme-stats)
 
