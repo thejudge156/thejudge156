@@ -1,5 +1,5 @@
 ### Hi there! I'm The Judge.
-I currently work mostly on QCXR. I know Java, C#, a little Python, and some C and C++.
+I currently work mostly on the QuestCraft Project. I know Java, C#, C, C++, and am familiar with Python.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejudge156)](https://github.com/anuraghazra/github-readme-stats)
 
